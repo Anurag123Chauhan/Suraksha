@@ -1,0 +1,170 @@
+[
+  {
+    "title": "Earthquake",
+    "content": {
+      "about": "An earthquake is the shaking of the surface of the Earth resulting from a sudden release of energy in the Earth's lithosphere that creates seismic waves.",
+      "precautions": [
+        "Drop, cover, and hold on during the shaking.",
+        "Stay away from windows, outside doors, and walls.",
+        "If outdoors, move to a clear area away from buildings, trees, and power lines.",
+        "After the shaking stops, check for injuries and damage."
+      ],
+      "emergency_kit": [
+        "Water and non-perishable food",
+        "First aid kit",
+        "Flashlight and extra batteries",
+        "Whistle to signal for help",
+        "Dust mask to help filter contaminated air"
+      ],
+      "contact_numbers": [
+        "Local emergency services",
+        "Family members",
+        "Neighbors"
+      ]
+    }
+  },
+  {
+    "title": "Flood",
+    "content": {
+      "about": "A flood is an overflow of water that submerges land that is usually dry. Floods can occur due to heavy rainfall, storm surges, or dam failures.",
+      "precautions": [
+        "Move to higher ground immediately.",
+        "Avoid walking or driving through floodwaters.",
+        "Stay informed by listening to weather updates and alerts.",
+        "Turn off utilities at the main switches or valves if instructed to do so."
+      ],
+      "emergency_kit": [
+        "Water and non-perishable food",
+        "First aid kit",
+        "Battery-powered or hand-crank radio",
+        "Flashlight and extra batteries",
+        "Local maps"
+      ],
+      "contact_numbers": [
+        "Local emergency services",
+        "Family members",
+        "Neighbors"
+      ]
+    }
+  },
+  {
+    "title": "Hurricane",
+    "content": {
+      "about": "A hurricane is a type of tropical cyclone characterized by low pressure, high winds, and heavy rain. Hurricanes can cause significant damage due to strong winds, storm surges, and flooding.",
+      "precautions": [
+        "Evacuate if advised by authorities.",
+        "Secure your home by boarding up windows and doors.",
+        "Stay indoors and away from windows during the storm.",
+        "Have a supply of water, food, and medications."
+      ],
+      "emergency_kit": [
+        "Water and non-perishable food",
+        "First aid kit",
+        "Battery-powered or hand-crank radio",
+        "Flashlight and extra batteries",
+        "Local maps"
+      ],
+      "contact_numbers": [
+        "Local emergency services",
+        "Family members",
+        "Neighbors"
+      ]
+    }
+  },
+  {
+    "title": "Wildfire",
+    "content": {
+      "about": "A wildfire is an uncontrolled fire that spreads rapidly through vegetation, often in rural areas. Wildfires can be caused by natural events like lightning or human activities.",
+      "precautions": [
+        "Create a defensible space around your home by clearing flammable vegetation.",
+        "Prepare an emergency kit and evacuation plan.",
+        "Stay informed about fire conditions and evacuation orders.",
+        "If advised to evacuate, do so immediately."
+      ],
+      "emergency_kit": [
+        "Water and non-perishable food",
+        "First aid kit",
+        "Battery-powered or hand-crank radio",
+        "Flashlight and extra batteries",
+        "N95 masks to filter out smoke"
+      ],
+      "contact_numbers": [
+        "Local emergency services",
+        "Family members",
+        "Neighbors"
+      ]
+    }
+  },
+  {
+    "title": "Tornado",
+    "content": {
+      "about": "A tornado is a rapidly rotating column of air that extends from a thunderstorm to the ground. Tornadoes can cause significant damage due to their high winds and flying debris.",
+      "precautions": [
+        "Seek shelter in a basement or an interior room on the lowest floor.",
+        "Avoid windows and cover yourself with a mattress or heavy blankets.",
+        "If outdoors, find a low-lying area such as a ditch and cover your head.",
+        "Stay informed by listening to weather updates and alerts."
+      ],
+      "emergency_kit": [
+        "Water and non-perishable food",
+        "First aid kit",
+        "Battery-powered or hand-crank radio",
+        "Flashlight and extra batteries",
+        "Whistle to signal for help"
+      ],
+      "contact_numbers": [
+        "Local emergency services",
+        "Family members",
+        "Neighbors"
+      ]
+    }
+  },
+  {
+    "title": "Tsunami",
+    "content": {
+      "about": "A tsunami is a series of large ocean waves caused by underwater earthquakes, volcanic eruptions, or landslides. Tsunamis can cause widespread flooding and damage to coastal areas.",
+      "precautions": [
+        "Move to higher ground immediately if you are in a coastal area.",
+        "Stay away from the beach and coastal areas during a tsunami warning.",
+        "Listen to emergency alerts and follow the instructions of local authorities.",
+        "Do not return to the affected area until it is declared safe."
+      ],
+      "emergency_kit": [
+        "Water and non-perishable food",
+        "First aid kit",
+        "Battery-powered or hand-crank radio",
+        "Flashlight and extra batteries",
+        "Local maps"
+      ],
+      "contact_numbers": [
+        "Local emergency services",
+        "Family members",
+        "Neighbors"
+      ]
+    }
+  },
+  {
+    "title": "Volcanic Eruption",
+    "content": {
+      "about": "A volcanic eruption occurs when magma, gas, and ash are expelled from a volcano. Eruptions can cause lava flows, ashfall, and pyroclastic flows, which can be hazardous to nearby communities.",
+      "precautions": [
+        "Evacuate if advised by authorities.",
+        "Stay indoors and keep windows and doors closed to avoid ash inhalation.",
+        "Wear long-sleeved clothing and masks to protect against ash.",
+        "Stay informed by listening to emergency alerts and updates."
+      ],
+      "emergency_kit": [
+        "Water and non-perishable food",
+        "First aid kit",
+        "Battery-powered or hand-crank radio",
+        "Flashlight and extra batteries",
+        "N95 masks to filter out ash"
+      ],
+      "contact_numbers": [
+        "Local emergency services",
+        "Family members",
+        "Neighbors"
+      ]
+    }
+  }
+]
